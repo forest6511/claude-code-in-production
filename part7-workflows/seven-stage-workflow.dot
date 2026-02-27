@@ -13,7 +13,7 @@ digraph seven_stage {
 
   brainstorm -> worktree -> plan;
   plan -> subagent [label="OK"];
-  plan -> reject   [label="NG"];
+  plan -> reject   [label="No"];
   reject -> plan;
   subagent -> tdd -> review;
   review -> complete [label="Pass"];
