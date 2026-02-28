@@ -31,7 +31,7 @@ Check the comment at the top of each file for pattern references (e.g., `# P14: 
 - **Title**: Claude Code in Production
 - **Subtitle**: 65 Automation Patterns for Hooks, Sub-Agents & CI/CD
 - **Author**: Yosuke Morikawa
-- **Available on**: Amazon Kindle
+- **Available on**: [Amazon Kindle](https://www.amazon.com/dp/B0GQJDGW9Z)
 
 ## License
 
